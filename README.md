@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="docs/images/unishare-streamer-banner.png" alt="UniShare Streamer Banner" width="45%">
+<img src="docs/images/demo.png" alt="UniShare Streamer Banner" width="45%">
 
 ### Event-Driven Processing Service for UniShare
 
@@ -99,7 +99,7 @@ The intended event flow is:
 
 <div align="center">
 
-<img src="docs/images/demo.png" alt="UniShare Streamer Event Processing Demo" width="35%">
+<img src="docs/images/unishare-streamer-banner.png" alt="UniShare Streamer Event Processing Demo" width="35%">
 
 </div>
 
